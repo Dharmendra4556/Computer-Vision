@@ -1,5 +1,4 @@
 # Computer-Vision
-Real-Time Object Recognition System Using Computer Vision Techniques.
-
-Developed an face,eye & object detection in image and videos system using OpenCV and
-Haar Cascade classifiers with high accuracy and speed.
+**This project involves the development of a robust object detection system utilizing OpenCV and Haar
+Cascade Classifiers. The system demonstrates a high level of accuracy and speed in identifying various
+objects within images and videos.**
